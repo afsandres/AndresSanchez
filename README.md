@@ -4,7 +4,7 @@
 
 - Soy especialista en Software, tengo 32 años, apasionado por el BackEnd y la arquitectura de Software._ 
 - _Graduado como_ Ingeniero en **UNISABANETA.** y como especialista en el **ITM.** 🎓
-- Un poco sobre mi_ **Me apasiona la tecnología, la filosofía estoica, el arte (escritura, pintura, música), el acuarismo y el dectectorismo** ✨
+- Un poco sobre mi **Me apasiona la tecnología, la filosofía estoica, el arte (escritura, pintura, música), el acuarismo y el dectectorismo** ✨
 - _Trabajo como_ **Analista de soluciones en Comfenalco Antioquia** 💼
 - _Mi contacto_ **(+573012345991)** 📞
 - _Mi portafolio_ **PRONTO**
