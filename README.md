@@ -7,7 +7,7 @@
 - Un poco sobre mi_ **Me apasiona la tecnología, la filosofía estoica, el arte (escritura, pintura, música), el acuarismo y el dectectorismo** ✨
 - _Trabajo como_ **Analista de soluciones en Comfenalco Antioquia** 💼
 - _Mi contacto_ **(+573012345991)** 📞
-- _ Mi portafolio_ **PRONTO**
+- _Mi portafolio_ **PRONTO**
 
 
 <h3 align="center">Lenguajes y herramientas:</h3>
